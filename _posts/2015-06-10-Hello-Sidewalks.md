@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Hello Sidewalks"
+date:   2015-07-10
 ---
+
+# Hello Sidewalk!
 
 ### Open Sidewalk Graph for Accessible Trip Planning:
 
@@ -22,4 +24,5 @@ Ph.D. student at University of Washington Department of Sociology.
 * **Anthony Arendt**,
 * **Jake Vanderplas**
 * **ALVA Students**
-* [projects](https://github.com/yunhaolucky/DSSG_sidewalk/).
+
+[github]:    https://github.com/yunhaolucky/DSSG_sidewalk
