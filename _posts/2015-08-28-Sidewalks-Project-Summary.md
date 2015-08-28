@@ -18,4 +18,4 @@ The team began the project by developing algorithms to format and rectify the ra
 Slides of the final presentation can be found [here](), and a video of the presentation is [here]().
 
 
-![Sidewalks Graphic](/images/Sidewalks.png "Cleaned Sidewalk Data in Downtown Seattle")
+![Sidewalks Graphic]({{ site.url }}/images/Sidewalks.png "Cleaned Sidewalk Data in Downtown Seattle")
